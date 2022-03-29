@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com.spclngs.calc/com.spclngs.calc.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.spclngs.calc/sandbox/com.spclngs.calc.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
